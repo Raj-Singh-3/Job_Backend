@@ -1,0 +1,11 @@
+flask==2.0.1
+flask-cors==3.0.10
+beautifulsoup4==4.9.3
+requests==2.26.0
+python-dotenv==0.19.0
+lxml==4.9.1
+langchain
+langchain-groq
+xgboost==1.7.6
+playwright==1.42.0
+playwright-firefox==1.42.0
