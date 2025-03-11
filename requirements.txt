@@ -8,4 +8,3 @@ langchain
 langchain-groq
 xgboost==1.7.6
 playwright==1.42.0
-playwright-firefox==1.42.0
